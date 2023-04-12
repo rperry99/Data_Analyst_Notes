@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL for Data Science.md",
+                "file": "readme.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL for Data Science.md",
+                "file": "readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL for Data Science.md",
+                "file": "readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL for Data Science.md"
+                "file": "readme.md.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "b306daf0aa122ad9",
   "lastOpenFiles": [
-    "SQL for Data Science.md"
+    "SQL for Data Science.md",
+    "UDEAFFRI04.md",
+    "readme.md.md"
   ]
 }
