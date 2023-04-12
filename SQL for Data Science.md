@@ -71,5 +71,27 @@
 	- Apache Open Office Base
 	- SQLite
 
+## Thinking about your data
+- What is the problem you are trying to solve?
+- Think about your data before you gather it. That way you don't have to gather data more than once for the same thing. Makes less rework.
+
+### Understand your data
+- Understand the business process or subjec tmatter the data is modeled after
+- Know the business rules
+- Understand how your data is organized and structured in teh table (modeled).
+
+### Why is this Worthwhile?
+- Get more accurate results
+- speed up your work
+- have less rework
+
+### Useful Terms
+[[Database]] A container (usually a file or set of files) to store organized data; a set of related information. Kind of like a filing system using filing cabinets.
+[[Table]] A structured list of data or a specific type. This is like one of the cabinets among the whole wall of cabinets.
+[[Column]] A signle field in a table - all tables are made up of one or more columns (Vertical)
+[[Row]] A record in a table (horizontal)
+
 # Tags
 #SQL #data
+
+# Related Pages
