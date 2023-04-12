@@ -2,4 +2,4 @@
 
 ## Outline
 - SQL
-	- [SQL for Data Science](UDEAFFRI04)
+	- [SQL for Data Science](https://github.com/rperry99/Data_Analyst_Notes/blob/master/SQL%20for%20Data%20Science.md)
